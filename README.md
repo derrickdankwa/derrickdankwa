@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!I am Derrick Dankwa Boakye, a skilled software engineer specializing in developing web applications and mobile apps to boost productivity. With a strong background in cutting-edge technologies, I leverage my expertise in the following stacks:
+<h2 align="left">Hi 👋! I am Derrick Dankwa Boakye, a skilled software engineer specializing in developing web applications and mobile apps to boost productivity. With a strong background in cutting-edge technologies, I leverage my expertise in the following stacks:
 Web Development Stack: MongoDB, Express.js, React.js, Node.js (MERN Stack)
 Mobile App Development Stack: Flutter, Dart, Firebase</h2>
 
